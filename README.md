@@ -1,4 +1,4 @@
-# SpamSms Most Effective Bd Sms Bomber With Custom Api Only For Education Purpose..
+# SpamSms Most Effective Bd Sms Bomber With Custom Api Only For Education Purpose 📨📨..
 
 - `pkg update`
 - `pkg upgrade`
