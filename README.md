@@ -11,4 +11,4 @@
 
 # .... Screenshots ....
 
-![Githubstates](https://github.com/PaNdAxAk/Monster/blob/main/IMG_20220606_195622.jpg)
+![Githubstates](https://raw.githubusercontent.com/PaNdAxAk/Monster/main/IMG_20220703_134856.png)
